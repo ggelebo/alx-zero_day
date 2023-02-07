@@ -1,1 +1,1 @@
-echo <file-content> > <file-name>
+git pull
